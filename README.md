@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hemanshi24
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Data Science as well as I am UI/UX designer
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me Pirojiya.hemanshi24@gmail.com
